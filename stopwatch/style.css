@@ -1,0 +1,15 @@
+h1 {
+  width: 100px;
+}
+body {
+  background-color: rgb(8, 150, 150);
+}
+#start {
+  background-color: burlywood;
+}
+#stop {
+  background-color: burlywood;
+}
+#reset {
+  background-color: burlywood;
+}
